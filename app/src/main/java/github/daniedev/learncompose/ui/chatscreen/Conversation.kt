@@ -1,4 +1,4 @@
-package github.daniedev.learncompose.ui.sample.chatscreen
+package github.daniedev.learncompose.ui.chatscreen
 
 import androidx.compose.foundation.lazy.LazyColumn
 import androidx.compose.runtime.Composable

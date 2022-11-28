@@ -4,4 +4,5 @@
     <style name="Theme.Learncompose" parent="android:Theme.Material.Light.NoActionBar">
         <item name="android:statusBarColor">@color/purple_700</item>
     </style>
+    <style name="Theme.BasicsCodelab" parent="android:Theme.Material.Light.NoActionBar" />
 </resources>

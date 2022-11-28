@@ -1,4 +1,4 @@
-package github.daniedev.learncompose.ui.sample.chatscreen
+package github.daniedev.learncompose.ui.chatscreen
 
 object SampleData {
     // Sample conversation data

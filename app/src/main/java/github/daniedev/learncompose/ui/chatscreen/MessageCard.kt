@@ -1,4 +1,4 @@
-package github.daniedev.learncompose.ui.sample.chatscreen
+package github.daniedev.learncompose.ui.chatscreen
 
 import android.content.res.Configuration
 import androidx.compose.animation.animateColorAsState
